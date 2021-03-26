@@ -2,9 +2,21 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 3,
+   "execution_count": 1,
    "metadata": {},
-   "outputs": [],
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "2021-03-26 14:56:48.761 WARNING root: \n",
+      "  \u001b[33m\u001b[1mWarning:\u001b[0m to view this Streamlit app on a browser, run it with the following\n",
+      "  command:\n",
+      "\n",
+      "    streamlit run /Users/davidschaupp/opt/anaconda3/envs/tensorflow/lib/python3.7/site-packages/ipykernel_launcher.py [ARGUMENTS]\n"
+     ]
+    }
+   ],
    "source": [
     "import streamlit as st\n",
     "\n",
